@@ -15,6 +15,8 @@
 
 - 📫 My linkedin profile **https://www.linkedin.com/in/ali-odaba%C5%9F%C4%B1-087014176/**
 
+- Thankyou for visiting my page 😊 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/odabasi61-the-selector" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ali odabaşi" height="30" width="40" /></a>
