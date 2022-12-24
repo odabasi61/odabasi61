@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ali odabaşi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ali odabaşi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ali odabaşı" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali odabaşı" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ali odabas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ali odabas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/odabasi61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="odabasi61" height="30" width="40" /></a>
+<a href="https://codepen.io/odabasi61-the-selector" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ali odabaşi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ali-odaba%C5%9F%C4%B1-087014176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali odabaşı" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20420525/ali-odabas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ali odabas" height="30" width="40" /></a>
+<a href="https://leetcode.com/odabasi61/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="odabasi61" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
